@@ -18,3 +18,5 @@ This is the main Gerber file that contains the details for fabrication
 .PcbDoc is the file that contains the PCB Design
 .SchLib is the file that contains the schematic library files
 .SchDoc is the file that contains the schematic files
+
+Designed by https://electric-shocks.com/services/
